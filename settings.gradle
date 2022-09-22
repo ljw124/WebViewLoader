@@ -1,0 +1,2 @@
+include ':app', ':wvlibrary'
+rootProject.name='WebViewLoader'
